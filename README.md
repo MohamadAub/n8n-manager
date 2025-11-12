@@ -1,7 +1,5 @@
 # 🧠 n8n-manager: Backup & Restore for n8n Docker via GitHub
 
-![Banner](.github/images/Banner.png)
-
 `n8n-manager` is a professional-grade shell-based automation utility built to **simplify, automate, and secure** the backup and restoration of your [n8n](https://n8n.io/) Docker instances via **GitHub integration**. It supports interactive and non-interactive modes, robust error handling, and fully automated CI/CD workflows.
 
 ---
