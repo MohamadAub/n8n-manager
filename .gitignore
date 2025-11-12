@@ -1,0 +1,22 @@
+# n8n-manager .gitignore
+
+# Logs
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary or backup files
+*.bak
+*.swp
+*.swo
+
+# Config files containing secrets
+.config/
+*.env
+*.secret
+
+# n8n backups and generated archives
+backup_*/
